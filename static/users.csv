@@ -1,0 +1,47 @@
+human,intent
+Good day cat,greeting
+Hello cat,greeting
+Hi cat,greeting
+how old you,calcAge
+what is your name,name
+how are you doing,care
+how are you,care
+who created you,probeCreator
+made you,probeCreator
+thank you,thank
+thanks,thank
+delete this file,deleteFile
+please open filename,open
+what day is it,day
+whats todays date,date
+what time is it,time
+check the dictionary for ,define
+define this ,define
+show all contact,showContacts
+fetch me my contacts,showContacts
+call,call
+mail,mail
+lookup this,wiki
+please research about,wiki
+brief this,wiki
+You are so smart,complement
+looking good cat,complement
+Thats awesome,complement
+please start wireless network,winet
+bye,bye
+goodbye,bye
+who are you,probePurpose
+God Exist,probeGodsExistence
+your IQ,probeStats
+are you mad,insult
+i wrong you,insult
+idiot,insult
+fool,insult
+stupid,insult
+crazy,insult
+bitch,insult
+whore,insult
+asshole,insult
+fuck you,insult
+motherfuck,insult
+your mother is in yaba left,insult
